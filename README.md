@@ -1,6 +1,8 @@
-### Hi there 👋
+![](https://raw.githubusercontent.com/memowe/memowe/main/assets/Muenster_Sonnenaufgang.png)
 
 <!--
+
+### Hi there 👋
 **memowe/memowe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
